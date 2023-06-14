@@ -28,16 +28,18 @@ Before running the project, ensure you have the following:
    ```
 4. Set up the necessary environment variables:
 
-A_VANTAGE_APIKEY - Your Alpha Vantage API key
-NEWSAPI_APIKEY - Your NewsAPI key
-TWILIO_ACC_SID - Your Twilio account SID
-TWILIO_AUTH_TOKEN - Your Twilio auth token
-TWILIO_NO - Your verified Twilio phone number
-YOUR_WHATSAPP_NO - Your whatsapp no to recieve the notification
+- A_VANTAGE_APIKEY - Your Alpha Vantage API key
+- NEWSAPI_APIKEY - Your NewsAPI key
+- TWILIO_ACC_SID - Your Twilio account SID
+- TWILIO_AUTH_TOKEN - Your Twilio auth token
+- TWILIO_NO - Your verified Twilio phone number
+- YOUR_WHATSAPP_NO - Your whatsapp no to recieve the notification
 
-5.Run the Python script:
-`    python stock_tracker.py
-   `
+  5.Run the Python script:
+
+  ```
+  python main.py
+  ```
 
 ## Usage
 
